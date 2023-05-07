@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paweł Szmit</h1>
-<h3 align="center">A passionate backend developer from Poland</h3>
+<h3 align="center">A passionate backend Java developer</h3>
 
 - 📫 How to reach me **szmitp@oriax.eu**
 
