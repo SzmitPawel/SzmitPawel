@@ -17,6 +17,10 @@
 <h3 align="left">Training Courses:</h3>
 <ul>
   <li>Kodilla Bootcamp - Full Stack Web Developer (2022)</li>
+  <li>Java Programming - Advanced Concepts (2022)</li>
+  <li>Database Management with MySQL (2021)</li>
+  <li>Building Scalable Applications with Spring Boot (2021)</li>
+  <li>Version Control with Git (2020)</li>
 </ul>
 <h3 align="left">Technologies I've learned:</h3>
 <p align="left">
