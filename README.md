@@ -8,7 +8,7 @@
 </p>
 <h3 align="left">Training Courses:</h3>
 <ul>
-  <li>Kodilla Bootcamp - Full Stack Web Developer (2022)</li>
+  <li>Kodilla Bootcamp - Java Developer Plus (2023)</li>
   <li>Java Programming - Advanced Concepts (2022)</li>
   <li>Database Management with MySQL (2021)</li>
   <li>Building Scalable Applications with Spring Boot (2021)</li>
